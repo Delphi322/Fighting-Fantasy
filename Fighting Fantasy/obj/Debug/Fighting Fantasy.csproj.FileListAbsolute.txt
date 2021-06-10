@@ -1,0 +1,17 @@
+C:\Users\511643\source\repos\Fighting Fantasy\Fighting Fantasy\bin\Debug\Fighting Fantasy.exe.config
+C:\Users\511643\source\repos\Fighting Fantasy\Fighting Fantasy\bin\Debug\Fighting Fantasy.exe
+C:\Users\511643\source\repos\Fighting Fantasy\Fighting Fantasy\bin\Debug\Fighting Fantasy.pdb
+C:\Users\511643\source\repos\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.csprojAssemblyReference.cache
+C:\Users\511643\source\repos\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.csproj.CoreCompileInputs.cache
+C:\Users\511643\source\repos\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.exe
+C:\Users\511643\source\repos\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.pdb
+H:\Fighting Fantasy\Fighting Fantasy\bin\Debug\Fighting Fantasy.exe.config
+H:\Fighting Fantasy\Fighting Fantasy\bin\Debug\Fighting Fantasy.exe
+H:\Fighting Fantasy\Fighting Fantasy\bin\Debug\Fighting Fantasy.pdb
+H:\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.csprojAssemblyReference.cache
+H:\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.csproj.CoreCompileInputs.cache
+H:\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.exe
+H:\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.pdb
+H:\Fighting Fantasy\Fighting Fantasy\obj\Debug\Interop.MediaPlayer.dll
+H:\Fighting Fantasy\Fighting Fantasy\obj\Debug\Interop.WMPLib.dll
+H:\Fighting Fantasy\Fighting Fantasy\obj\Debug\Fighting Fantasy.csproj.ResolveComReference.cache
