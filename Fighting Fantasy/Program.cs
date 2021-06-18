@@ -21,7 +21,7 @@ namespace Fighting_Fantasy
             TitleScreen();
             WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
             myplayer.settings.setMode("loop", true);
-            myplayer.URL = "H:\\Fighting Fantasy\\FF1 Battle theme.mp3";
+            myplayer.URL = "C:\\Fighting Fantasy\\FF1 Battle theme.mp3";
             myplayer.controls.play();
             TurnOne();
         }
@@ -48,7 +48,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
  / ) (
  \(_)/ ");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 TurnTwo();
@@ -57,7 +57,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You rush forward going in for a stab only to get knocked away by the ice shards");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -66,7 +66,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You leap forward going in for a slash only to get knocked back by the ice shards");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -75,7 +75,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You call forth a powerful crackle of lighting but the protective ice shards nullify the spell");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -84,7 +84,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You launch a flurry of ice spears that shatter against the protective ice shards");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -93,7 +93,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You summon a destructive tornado but the breeze does little except break up the ice shards a small amount");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -102,7 +102,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You channel all of your magic power into a powerful super nova that shatters the ice shards completely!...but leaves you completely exhausted and struggling to stand");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -140,7 +140,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             \\
         -.'.`\.'.-");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 TurnThree();
@@ -149,7 +149,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You charge forward to stab but the strong wind knocks you back");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -158,7 +158,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You leap forward for a slash only to get knocked back by the wind");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -167,7 +167,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You launch several ice spears forward only to have them knocked aside by the wind");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -176,7 +176,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You attempt to summon your own tornado but the stronger whirlwind absorbs it making it even more powerful pushing you back");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -185,7 +185,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You channel all of your magic power into a powerful super nova that breaks the whirlwind apart!...but leaves you completely exhausted and struggling to stand");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -230,7 +230,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
   -.'-/\\\-.'//.-'/:`\.'-....'.'-=_\\
 ' -.' -.\\'-.'//.-'.`-.'_\\-.'.-\'.-//");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 TurnFour();
@@ -239,7 +239,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You dart forward and stab the first fireball destroying it but the rest of them smash and burst against your body knocking you down");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -248,7 +248,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You leap forward and slash down the first few fire balls but there are too many coming too fast and you soon get pelted by the rest knocking you to the ground");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -257,7 +257,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You launch forth a flurry of ice spears but the fire balls melt them in an instant and soon collide with your body knocking you down");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -266,7 +266,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You channel all of your magic power into a powerful super nova that obliterates all of the fire balls before they can reach you!...but leaves you completely exhausted and struggling to stand");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -306,7 +306,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
       ./    \.                            '      '
       ''    '' ");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 TurnFive();
@@ -315,7 +315,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You rush forward attempting to stab Rilgashaan but the lighting strike is summoned before you can reach him striking you down");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -324,7 +324,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You leap forward to slash at your foe but the lighting stike zaps you out of the sky causing you to plummet to the ground");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -333,7 +333,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You channel all of your magic power into a powerful super nova that deflects the lighting strike!...but leaves you completely exhausted and struggling to stand");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -384,7 +384,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
                           (     //|/l|||)|\\ \     )
                         (/ / //  /|//||||\\  \ \  \ _)");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Spell.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Spell.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 TurnSix();
@@ -393,7 +393,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You charge forward and attempt to break through the barrier with a stab but your sword bounces off in a blast knocking you back");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -402,7 +402,7 @@ Unleash the rest of your magic power in a magical super nova burst (7)");
             {
                 Console.WriteLine("You leap forward and bring your sword down on the barrier but a magical blast knocks you down");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
@@ -434,7 +434,7 @@ Slash at Rilgashaan with your sword (2)");
 [########[]_________________________________>
          \>");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Hit.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Hit.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 TurnSeven();
@@ -442,6 +442,9 @@ Slash at Rilgashaan with your sword (2)");
             if (turnSix == "1")
             {
                 Console.WriteLine("You run forwards at Rilgashaan determined to land the killing blow now but alas this was your final mistake as Rilgashaan swings his staff at you knocking you back");
+                WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
+                myplayer.URL = "C:\\Fighting Fantasy\\Miss.mp3";
+                myplayer.controls.play();
                 Sleep(5000);
                 Defeat();
             }
@@ -471,7 +474,7 @@ Slash at Rilgashaan with your sword (2)");
 [########[]_________________________________>
          \>");
                 WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-                myplayer.URL = "H:\\Fighting Fantasy\\Hit.mp3";
+                myplayer.URL = "C:\\Fighting Fantasy\\Hit.mp3";
                 myplayer.controls.play();
                 Sleep(5000);
                 Ending();
@@ -492,7 +495,7 @@ Slash at Rilgashaan with your sword (2)");
             Sleep(1000);
             Console.WriteLine("Rilgashaan had finally been defeated once and for all");
             WindowsMediaPlayer myplayer = new WindowsMediaPlayer();
-            myplayer.URL = "H:\\Fighting Fantasy\\Victory.mp3";
+            myplayer.URL = "C:\\Fighting Fantasy\\Victory.mp3";
             myplayer.controls.play();
             Console.WriteLine("The day was saved and countless celebrations would be held in your name for your heroic deeds");
             Sleep(1000);
